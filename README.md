@@ -8,7 +8,7 @@ Roast allows its user to search for the nearest cafe and read its reviews at htt
 * Yelp API
 * React Bootstrap
 ## Backend Repository
-https://github.com/taylorschmidt/Roast-BackEnd
+https://github.com/elizchan/Roast-Backend
 ## Set-Up
 * fork and clone repo
 * npm i
